@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **clean architecture and Firebase Cloud Functions**
 
-- 👨‍💻 All of my projects are available at [https://github.com/YoussefGhonem1](https://github.com/YoussefGhonem1)
-
 - 💬 Ask me about **Flutter, Dart, Firebase, and building apps from scratch**
 
 - 📫 How to reach me **youssefghoneem883@gmail.com**
