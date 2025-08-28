@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **youssefghoneem883@gmail.com**
 
-- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/1S-tZ5vW7aQjnXysYPxaGU64raQUO6qQR/view?usp=sharing)
+- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/1UoD0wWI0cViscBH8yGa7t1w_WZ6mWzXF/view?usp=sharing)
 
 - ⚡ Fun fact **I don’t just write code — I arrange pixels with purpose and style 🎨**
 
