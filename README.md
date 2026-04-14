@@ -5,15 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=youssefghonem1" alt="youssefghonem1" /></a> </p>
 
-- 🔭 I’m currently working on [charity_app](https://github.com/YoussefGhonem1/charity_app)
-
-- 🌱 I’m currently learning **clean architecture and Firebase Cloud Functions**
-
-- 💬 Ask me about **Flutter, Dart, Firebase, and building apps from scratch**
-
 - 📫 How to reach me **youssefghoneem883@gmail.com**
 
-- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/1iIbYI2KZOZ27rThsPZq9vrGbrvyQMztb/view?usp=sharing)
+- 📄 Know about my experiences [My CV](https://drive.google.com/drive/folders/11SGlnc6t5sFLkTo_RA7v8DBl9O7Qv2P6?usp=sharing)
 
 - ⚡ Fun fact **I don’t just write code — I arrange pixels with purpose and style 🎨**
 
